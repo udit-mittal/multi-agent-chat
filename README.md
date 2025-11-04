@@ -16,3 +16,19 @@ A full-stack AI support chatbot that simulates a multi-agent architecture using 
 ---
 
 ## 📂 Project Structure
+```multi-agent-chat/
+├── backend/
+│ ├── app/
+│ │ ├── routers/
+│ │ ├── services/
+│ │ └── models.py
+│ ├── main.py
+│ └── requirements.txt
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ └── App.js
+│ ├── public/
+│ └── package.json
+└── README.md
+```
